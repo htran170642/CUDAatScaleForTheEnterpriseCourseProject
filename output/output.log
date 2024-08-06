@@ -1,0 +1,52 @@
+./bin/nppFilters Starting...
+
+GPU Device 0: "Ampere" with compute capability 8.6
+
+NPP Library Version 11.5.1
+  CUDA Driver  Version: 12.2
+  CUDA Runtime Version: 11.5
+  Device 0: <          Ampere >, Compute SM 8.6 detected
+GPU Device 0: "Ampere" with compute capability 8.6
+
+Selected Canny Edge Detection Filter.
+Processing of ./data/lady.pgm started.
+Processing of ./data/lady.pgm ended. Result saved to: ./output/lady_canny.bmp
+./bin/nppFilters Starting...
+
+GPU Device 0: "Ampere" with compute capability 8.6
+
+NPP Library Version 11.5.1
+  CUDA Driver  Version: 12.2
+  CUDA Runtime Version: 11.5
+  Device 0: <          Ampere >, Compute SM 8.6 detected
+GPU Device 0: "Ampere" with compute capability 8.6
+
+Selected Sobel Edge Detection Filter.
+Processing of ./data/lady.pgm started.
+Processing of ./data/lady.pgm ended. Result saved to: ./output/lady_sobel.bmp
+./bin/nppFilters Starting...
+
+GPU Device 0: "Ampere" with compute capability 8.6
+
+NPP Library Version 11.5.1
+  CUDA Driver  Version: 12.2
+  CUDA Runtime Version: 11.5
+  Device 0: <          Ampere >, Compute SM 8.6 detected
+GPU Device 0: "Ampere" with compute capability 8.6
+
+Selected Canny Edge Detection Filter.
+Processing of ./data/lady.pgm started.
+Processing of ./data/lady.pgm ended. Result saved to: ./output/lady_canny.bmp
+./bin/nppFilters Starting...
+
+GPU Device 0: "Ampere" with compute capability 8.6
+
+NPP Library Version 11.5.1
+  CUDA Driver  Version: 12.2
+  CUDA Runtime Version: 11.5
+  Device 0: <          Ampere >, Compute SM 8.6 detected
+GPU Device 0: "Ampere" with compute capability 8.6
+
+Selected Sobel Edge Detection Filter.
+Processing of ./data/lady.pgm started.
+Processing of ./data/lady.pgm ended. Result saved to: ./output/lady_sobel.bmp
